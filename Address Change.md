@@ -3,6 +3,7 @@
 - [ ] Residence card address change
 - [ ] Mobile Phone Connection address change (personal connection)
 - [ ] Internet
+- [ ] Postal Forwarding
 - [ ] Office Doc Changes
     - [ ] Office Address change
     - [ ] Japan Pension
