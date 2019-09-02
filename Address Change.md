@@ -1,0 +1,28 @@
+- [ ] Electricity, Water, Gas
+- [ ] MyNumber address change
+- [ ] Residence card address change
+- [ ] Mobile Phone Connection address change (personal connection)
+- [ ] Internet
+- [ ] Office Doc Changes
+    - [ ] Office Address change
+    - [ ] Japan Pension
+    - [ ] YG Health Insurance
+    - [ ] SBI
+- [ ] Welbox
+- [ ] Bank Address change
+    - [ ] JNB
+    - [ ] Shinsei
+    - [ ] Nomura
+- [ ] Payments/Credit card
+    - [ ] YJ
+    - [ ] YJ Wallet
+    - [ ] Paypal address change
+- [ ] Money transfer
+    - [ ] Transferwise
+    - [ ] brastel
+- [ ] Nomura
+- [ ] Shopping
+    - [ ] Amazon
+    - [ ] Yahoo shopping
+    - [ ] Mobile app address changes (if any)
+    - [ ] Netflix
