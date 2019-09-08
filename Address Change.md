@@ -43,3 +43,4 @@
     - [ ] YJ
     - [ ] YJ Wallet
     - [ ] Paypal address change
+    - [ ] Paypay
