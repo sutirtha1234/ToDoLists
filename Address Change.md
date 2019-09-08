@@ -2,10 +2,14 @@
 
 - [ ] Electricity, Water, Gas (**BEFORE**)
 - [x] Residence change Apply (**AFTER**)
-- [ ] Internet (**BEFORE**)
+- [x] Internet (**BEFORE**)
 - [ ] Find Trunk box
 - [ ] Find Movers
 - [ ] Decide Key handover Date
+
+
+- will have to senf the net box
+- will have to hand over Key
 
 ## After Shifting
 
