@@ -1,6 +1,6 @@
 ## Before Shifting
 
-- [ ] Electricity 
+- [x] Electricity 
 - [x] Water
 - [x] Gas
 - [x] Residence change Apply
@@ -8,11 +8,14 @@
 - [x] Find Trunk box
 - [ ] Find Movers
 - [x] Decide Key handover Date
-- [ ] Postal Forwarding
+- [x] Postal Forwarding
 
 
 - will have to send the net box (Will get boxes delivered)
 - will have to hand over Key (25th, 4pm)
+- check any mail for post forwarding
+
+- check any emails related to moving
 
 ## After Shifting
 
