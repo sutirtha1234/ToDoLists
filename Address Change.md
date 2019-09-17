@@ -1,15 +1,18 @@
 ## Before Shifting
 
-- [ ] Electricity, Water, Gas (**BEFORE**)
-- [x] Residence change Apply (**AFTER**)
-- [x] Internet (**BEFORE**)
-- [ ] Find Trunk box
+- [ ] Electricity 
+- [x] Water
+- [x] Gas
+- [x] Residence change Apply
+- [x] Internet
+- [x] Find Trunk box
 - [ ] Find Movers
-- [ ] Decide Key handover Date
+- [x] Decide Key handover Date
+- [ ] Postal Forwarding
 
 
-- will have to senf the net box
-- will have to hand over Key
+- will have to send the net box (Will get boxes delivered)
+- will have to hand over Key (25th, 4pm)
 
 ## After Shifting
 
@@ -21,8 +24,6 @@
     - [ ] Japan Pension
     - [ ] YG Health Insurance
     - [ ] SBI
-
-- [ ] Postal Forwarding  (After FIRST change, **AUTO**)
 - [ ] Welbox  (After FIRST change)
     
 ## After 2nd Shifting
