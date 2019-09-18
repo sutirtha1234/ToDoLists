@@ -1,6 +1,6 @@
 ## Before Shifting
 
-- [x] Electricity 
+- [x] Electricity Online
 - [x] Water
 - [x] Gas
 - [x] Residence change Apply
@@ -8,7 +8,7 @@
 - [x] Find Trunk box
 - [ ] Find Movers
 - [x] Decide Key handover Date
-- [x] Postal Forwarding
+- [x] Postal Forwarding Online
 
 Things to keep in mind:
 - will have to send the net box (Will get boxes delivered)
@@ -18,6 +18,8 @@ Things to keep in mind:
 
 ## After Shifting
 
+
+- [x] Update Nomura Address Online
 - [ ] MyNumber address change (**AFTER**)
 - [ ] Residence card update (**AFTER**)
 - [ ] Mobile Phone Connection address change (personal connection)
@@ -27,7 +29,7 @@ Things to keep in mind:
     - [ ] YG Health Insurance
     - [ ] SBI
 - [ ] Welbox  (After FIRST change)
-    
+
 ## After 2nd Shifting
 
 - [ ] Money transfer  (After main change)
@@ -41,7 +43,6 @@ Things to keep in mind:
 - [ ] Bank Address change  (After main change)
     - [ ] JNB
     - [ ] Shinsei
-    - [ ] Nomura
 - [ ] Payments/Credit card  (After main change)
     - [ ] YJ
     - [ ] YJ Wallet
