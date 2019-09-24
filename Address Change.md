@@ -5,8 +5,7 @@
 - [x] Gas
 - [x] Residence change Apply
 - [x] Internet
-- [x] Find Trunk box
-- [ ] Find Movers
+- [x] Find Movers
 - [x] Decide Key handover Date
 - [x] Postal Forwarding Online
 
@@ -18,18 +17,17 @@ Things to keep in mind:
 
 ## After Shifting
 
-
 - [x] Update Nomura Address Online
 - [ ] MyNumber address change (**AFTER**)
 - [ ] Residence card update (**AFTER**)
 - [ ] Mobile Phone Connection address change (personal connection)
 - [ ] Office Doc Changes  (After FIRST change)
+    - [ ] Money for travel update
     - [ ] Office Address change
     - [ ] Japan Pension
     - [ ] YG Health Insurance
     - [ ] SBI
 - [ ] Welbox  (After FIRST change)
-
 
 Things to keep in mind:
 - [ ] Send Nomura Documents
