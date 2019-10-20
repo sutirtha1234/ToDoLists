@@ -10,27 +10,27 @@
 - [x] Postal Forwarding Online
 
 Things to keep in mind:
-- [ ] will have to send the net box (Will get boxes delivered)
-- [ ] will have to hand over Key (25th, 4pm)
+- [x] will have to send the net box (Will get boxes delivered)
+- [x] will have to hand over Key (25th, 4pm)
 - [x] check any mail for post forwarding
-- [ ] check any emails related to moving
+- [x] check any emails related to moving
 
 ## After Shifting
 
 - [x] Update Nomura Address Online
-- [ ] MyNumber address change (**AFTER**)
-- [ ] Residence card update (**AFTER**)
-- [ ] Mobile Phone Connection address change (personal connection)
-- [ ] Office Doc Changes  (After FIRST change)
-    - [ ] Money for travel update
-    - [ ] Office Address change
-    - [ ] Japan Pension
-    - [ ] YG Health Insurance
-    - [ ] SBI
-- [ ] Welbox  (After FIRST change)
+- [x] MyNumber address change (**AFTER**)
+- [x] Residence card update (**AFTER**)
+- [x] Mobile Phone Connection address change (personal connection)
+- [x] Office Doc Changes  (After FIRST change)
+    - [x] Money for travel update
+    - [x] Office Address change
+    - [x] Japan Pension
+    - [x] YG Health Insurance
+    - [x] SBI
+- [x] Welbox  (After FIRST change)
 
 Things to keep in mind:
-- [ ] Send Nomura Documents
+- [-] Send Nomura Documents
 
 ## After 2nd Shifting
 
